@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aetherflow-app/static/css/main.8a4fcb1c.css",
+    "main.js": "/aetherflow-app/static/js/main.0757b5c1.js",
+    "static/js/453.ff21e687.chunk.js": "/aetherflow-app/static/js/453.ff21e687.chunk.js",
+    "index.html": "/aetherflow-app/index.html",
+    "main.8a4fcb1c.css.map": "/aetherflow-app/static/css/main.8a4fcb1c.css.map",
+    "main.0757b5c1.js.map": "/aetherflow-app/static/js/main.0757b5c1.js.map",
+    "453.ff21e687.chunk.js.map": "/aetherflow-app/static/js/453.ff21e687.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a4fcb1c.css",
+    "static/js/main.0757b5c1.js"
+  ]
+}
